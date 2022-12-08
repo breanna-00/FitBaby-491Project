@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "296934669393",
+    "project_id": "fitbaby-20ec6",
+    "storage_bucket": "fitbaby-20ec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296934669393:android:7fa9fb5e1e579296da4c70",
+        "android_client_info": {
+          "package_name": "com.Fitbaby.Fitbaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296934669393-e1u9qqt0v848pc5rcsprdgpjk7eos2r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTpn65q9p8kOKaM0yC7c-RLbo4XQlekg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296934669393-e1u9qqt0v848pc5rcsprdgpjk7eos2r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296934669393:android:7fbece93680a345fda4c70",
+        "android_client_info": {
+          "package_name": "com.senior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296934669393-e1u9qqt0v848pc5rcsprdgpjk7eos2r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTpn65q9p8kOKaM0yC7c-RLbo4XQlekg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296934669393-e1u9qqt0v848pc5rcsprdgpjk7eos2r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296934669393:android:dcd1e8a179c1f578da4c70",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296934669393-e1u9qqt0v848pc5rcsprdgpjk7eos2r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTpn65q9p8kOKaM0yC7c-RLbo4XQlekg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296934669393-e1u9qqt0v848pc5rcsprdgpjk7eos2r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
